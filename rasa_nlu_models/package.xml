@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+  <name>rasa_nlu_models</name>
+  <version>1.0.0</version>
+  <description>A package containing NLU models for rasa</description>
+
+  <author email="erick.romero@smail.inf.h-brs.de">Erick Kramer </author>
+  <maintainer email="robotics@inf.h-brs.de">MAS robotics</maintainer>
+
+
+  <license>GPLv3</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>roslint</build_depend>
+
+  <run_depend>rospy</run_depend>
+  <run_depend>roslint</run_depend>
+
+  <export></export>
+</package>

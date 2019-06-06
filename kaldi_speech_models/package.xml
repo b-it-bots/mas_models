@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>kaldi_speech_models</name>
+  <version>1.0.0</version>
+  <description>A package containing speech models for Kaldi</description>
+
+  <author email="roberto.cai@smail.inf.h-brs.de">Roberto Cai</author>
+  <maintainer email="robotics@inf.h-brs.de">MAS robotics</maintainer>
+
+
+
+    <license>GPLv3</license>
+
+    <buildtool_depend>catkin</buildtool_depend>
+    <build_depend>rospy</build_depend>
+    <build_depend>roslint</build_depend>
+
+    <run_depend>rospy</run_depend>
+    <run_depend>roslint</run_depend>
+
+    <export></export>
+</package>

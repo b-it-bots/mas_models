@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <name>mas_models</name>
+  <version>1.2.0</version>
+  <description>ROS metapackages for trained models used for b-it-bots.</description>
+  <license>GPLv3</license>
+
+  <maintainer email="robotics@inf.h-brs.de">MAS robotics</maintainer>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+</package>

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>mas_models</name>
+  <name>perception_models</name>
   <version>0.0.0</version>
-  <description>The package which contains machine learning models used by b-it-bots@Home</description>
+  <description>The package which contains trained perception models used by b-it-bots</description>
 
   <maintainer email="robotics@mail.inf.h-brs.de">MAS Robotics</maintainer>
 

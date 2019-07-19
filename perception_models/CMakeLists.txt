@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(mas_models)
+project(perception_models)
 
 find_package(catkin REQUIRED COMPONENTS)
 
